@@ -1,0 +1,29 @@
+PODS:
+  - BCryptSwift (1.1)
+  - Flutter (1.0.0)
+  - flutter_bcrypt (0.0.1):
+    - BCryptSwift (~> 1.1)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_bcrypt (from `.symlinks/plugins/flutter_bcrypt/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BCryptSwift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_bcrypt:
+    :path: ".symlinks/plugins/flutter_bcrypt/ios"
+
+SPEC CHECKSUMS:
+  BCryptSwift: f69992ea5685f6714260842c2770688043b89ab2
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_bcrypt: 8ae63c682225f69d9981465509cb26b9e93522ef
+
+PODFILE CHECKSUM: 3f026524448340e28f2e31a71fa4f942189477b1
+
+COCOAPODS: 1.10.1
